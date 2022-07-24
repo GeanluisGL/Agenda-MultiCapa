@@ -1,0 +1,6 @@
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T7\Programacion Multicapa\AE(A)\E_EA\bin\Debug\E_EA.dll
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T7\Programacion Multicapa\AE(A)\E_EA\bin\Debug\E_EA.pdb
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T7\Programacion Multicapa\AE(A)\E_EA\obj\Debug\E_EA.csproj.AssemblyReference.cache
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T7\Programacion Multicapa\AE(A)\E_EA\obj\Debug\E_EA.csproj.CoreCompileInputs.cache
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T7\Programacion Multicapa\AE(A)\E_EA\obj\Debug\E_EA.dll
+C:\Users\geanl\Documents\Yan\Codes\999_Class\C5\Programacion 2\T7\Programacion Multicapa\AE(A)\E_EA\obj\Debug\E_EA.pdb

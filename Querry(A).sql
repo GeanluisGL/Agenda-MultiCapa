@@ -115,4 +115,4 @@ drop proc SP_READ
 
 drop proc SP_UPDATE
 
-drop proc SP_DELETE
+drop proc SP_DELETE;

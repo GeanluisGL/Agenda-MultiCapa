@@ -1,10 +1,11 @@
-```markdown
+
 # 📒 Agenda Electrónica Multicapa
 
 [![GitHub](https://img.shields.io/badge/Repositorio-GeanluisGL%2FAgenda--MultiCapa-blue?logo=github)](https://github.com/GeanluisGL/Agenda-MultiCapa)
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-Completado-brightgreen)]()
 [![Lenguaje](https://img.shields.io/badge/Lenguaje-C%23-purple)]()
 
+```markdown
 ## 📝 Descripción del Proyecto
 
 Este proyecto es una **agenda electrónica** desarrollada como práctica de programación bajo una **arquitectura multicapa**. Su objetivo principal es implementar las cuatro funcionalidades básicas de un sistema de gestión de contactos:

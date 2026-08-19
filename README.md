@@ -78,7 +78,6 @@ Para poner en marcha la aplicación en tu entorno local, sigue estos pasos:
 
 ## 🤝 Contribuciones
 
-Este es un proyecto de práctica académica, pero si tienes sugerencias o mejoras, no dudes en abrir un *issue* o enviar un *pull request*.
 
 ## 👤 Autor
 

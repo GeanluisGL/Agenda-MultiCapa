@@ -76,8 +76,6 @@ Para poner en marcha la aplicación en tu entorno local, sigue estos pasos:
 
 4.  **Compilar y Ejecutar:** Compila la solución y ejecuta el proyecto de la capa de presentación (`P_EA`).
 
-## 🤝 Contribuciones
-
 
 ## 👤 Autor
 

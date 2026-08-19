@@ -84,4 +84,3 @@ Este es un proyecto de práctica académica, pero si tienes sugerencias o mejora
 
 -   **GeanluisGL** - [Perfil de GitHub](https://github.com/GeanluisGL)
 
----
